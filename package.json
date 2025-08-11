@@ -1,0 +1,19 @@
+{
+  "name": "mozback",
+  "version": "1.0.0",
+  "description": "backened for company management website will add more features later on right now we are focusing on MVP features ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js" ,
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
